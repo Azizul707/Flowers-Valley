@@ -194,7 +194,7 @@ span {
   width: 260px;
   height: 310px;
 }
-/* last section style start */
+/*! last section style start */
 
 .last-section-container {
   width: 73%;
@@ -206,8 +206,7 @@ span {
   background-repeat: no-repeat;
 }
 .text-content {
-  border: 1px solid;
-  width: 580px;
+  width: 680px;
   height: 340px;
   margin: 0 auto;
   padding: 100px 0px;
@@ -224,4 +223,53 @@ span {
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
+  padding-bottom: 10px;
+}
+#user-email {
+  width: 460px;
+  height: 47px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 0px;
+  background: #fff;
+}
+.lst-btn {
+  width: 130px;
+  height: 47px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 0px;
+  background: #e55473;
+  color: #fff;
+  margin-left: 10px;
+}
+
+/* footer style start here */
+
+.footer-container {
+  text-align: center;
+  width: 100vw;
+  height: 50vh;
+  background: #111010;
+}
+.footer-title {
+  color: #fff;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 800;
+  padding-top: 60px;
+}
+.footer-pera {
+  width: 625px;
+  margin: 0 auto;
+  padding-top: 5px;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20px;
+
+}
+.copyright-pera {
+  padding-top: 15px;
+  color: #ffffff66;
 }
