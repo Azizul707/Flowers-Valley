@@ -228,15 +228,16 @@ span {
 }
 #user-email {
   width: 460px;
-  height: 47px;
+  height: 45px;
   padding: 8px;
   border-radius: 8px;
   border: 0px;
+  margin-left: 60px;
   background: #fff;
 }
 .lst-btn {
   width: 130px;
-  height: 47px;
+  height: 45px;
   flex-shrink: 0;
   border-radius: 8px;
   border: 0px;
